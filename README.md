@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sancharika
+- 👋 Hi, I’m **Sancharika Debnath**
 - 👀 I’m interested in js,java,c,c++.
 - 🌱 I’m currently learning js,ethical hacking
 - 💞️ I’m looking to collaborate on projects for web development .
