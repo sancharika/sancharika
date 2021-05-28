@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning js,ethical hacking
 - 💞️ I’m looking to collaborate on projects for web development .
 - 💻 I'm a beginner in web develpment.
-- 📫 How to reach me - LinkedIn (https://www.linkedin.com/in/sancharika-debnath-879416170/)
+- 📫 How to reach me - LinkedIn [Sancharika debnath](https://www.linkedin.com/in/sancharika-debnath-879416170/)
 
 <!---
 sancharika/sancharika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
