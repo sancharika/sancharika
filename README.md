@@ -1,8 +1,7 @@
 - 👋 Hi, I’m **Sancharika Debnath**
 - 👀 I’m interested in js,java,c,c++.
-- 🌱 I’m currently learning js,ethical hacking
-- 💞️ I’m looking to collaborate on projects for web development .
-- 💻 I'm a beginner in web develpment.
+- 🌱 I’m currently learning AI, Machine learning
+- 💞️ I’m looking to collaborate on projects for Data Science .
 - 📫 How to reach me - LinkedIn [Sancharika debnath](https://www.linkedin.com/in/sancharika-debnath-879416170/)
 
 <!---
