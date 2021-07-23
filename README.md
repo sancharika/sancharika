@@ -11,8 +11,10 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there, SANCHARIKA DEBNATH 👋
 
-[![instagram]<img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-[![gmail]<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />## A MACHINE LEARNING ENTHUSIAST!!
+[![instagram]<img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>]
+[![gmail]<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]
+
+## A MACHINE LEARNING ENTHUSIAST!!
 
 
 - 🌱 I’m currently trying to learn everything! 🌝
@@ -73,7 +75,7 @@ You can click the Preview link to take a look at your changes.
 <!-- [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr -->
-[linkedin]: https://linkedin.com/in/sancharika_debnath
+[linkedin]: https://linkedin.com/in/sancharika-debnath
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
