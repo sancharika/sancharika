@@ -18,7 +18,13 @@ You can click the Preview link to take a look at your changes.
 
 
 - 🌱 I’m currently trying to learn everything! 🌝
-- 👯 I’m looking to collaborate for *Data Science* projects.
+    📖  Deep Learning
+    📖  Open CV
+    📖  Big Data
+    📖  Computer Networking
+   
+- 👯 I’m looking to collaborate for *Data Science* real life based projects.
+- 👀 Projects
 - 🥅 New Interests: AI, Open CV, NLP.
 - ⚡ Pre-final year, Information technology student from KIIT 👩‍🎓
 
