@@ -18,10 +18,10 @@ You can click the Preview link to take a look at your changes.
 
 
 - 🌱 I’m currently trying to learn everything! 🌝
-    📖  Deep Learning
-    📖  Open CV
-    📖  Big Data
-    📖  Computer Networking
+    📖  Deep Learning <br>
+    📖  Open CV <br>
+    📖  Big Data <br>
+    📖  Computer Networking <br>
    
 - 👯 I’m looking to collaborate for *Data Science* real life based projects.
 - 👀 Projects
