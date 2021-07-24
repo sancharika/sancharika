@@ -40,7 +40,6 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="sancharika | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sancharika | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sancharika | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
 <br />
 
 ### Languages and Tools:
@@ -60,6 +59,7 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][git]
 
 <br />
+
 <br />
 
 ---
@@ -68,12 +68,12 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 
-<br>
 ![github contribution grid snake animation][snake]
 
 
 
 [snake]: https://raw.githubusercontent.com/sancharika/sancharika/output/github-contribution-grid-snake.svg
+
 [instagram]: https://www.instagram.com/_sancharika_debnath_/
 [gamil]: sancharikadebnath@gmail.com
 [twitter]: https://twitter.com/yoyosanchu
