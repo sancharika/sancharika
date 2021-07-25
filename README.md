@@ -9,7 +9,8 @@ sancharika/sancharika is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there, SANCHARIKA DEBNATH 👋
+### Hi there 
+# SANCHARIKA DEBNATH Here ✨👋
 
 <!-- [![instagram]<img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>]
 [![gmail]<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]
