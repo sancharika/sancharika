@@ -2,10 +2,6 @@
 
 # 👩‍💻 Sancharika Debnath
 ### A MACHINE LEARNING ENTHUSIAST!!
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue)](https://sancharika.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sancharika-debnath/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/sancharika/)
-[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:sancharikadebnath@gmail.com)
 
 ---
 
