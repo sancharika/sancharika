@@ -5,7 +5,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 💻 About Me
 
 Hello! I'm Sancharika Debnath, a passionate Data Scientist with a knack for leveraging emerging technologies to create innovative solutions. My expertise spans data science, machine learning, back-end development, and generative AI, and I'm always eager to explore new challenges and opportunities.
 
