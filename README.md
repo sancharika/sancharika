@@ -1,47 +1,50 @@
-<!-- - 👋 Hi, I’m **Sancharika Debnath**
-- 👀 I’m interested in js,java,c,c++.
-- 🌱 I’m currently learning AI, Machine learning
-- 💞️ I’m looking to collaborate on projects for Data Science .
-- 📫 How to reach me - LinkedIn [Sancharika debnath](https://www.linkedin.com/in/sancharika-debnath-879416170/) -->
-
-<!---
-sancharika/sancharika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-### Hi there 
-# SANCHARIKA DEBNATH Here ✨👋
-
-<!-- [![instagram]<img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>]
-[![gmail]<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]
- -->
-## A MACHINE LEARNING ENTHUSIAST!!
 
 
-- 🌱 I’m currently trying to learn everything! 🌝 <br>
-    📖  Deep Learning <br>
-    📖  Open CV<br>
-    📖  Big Data<br>
-    📖  Computer Networking<br>
-   
-- 👯 I’m looking to collaborate for *Data Science* real life based projects.
-- 👀 Projects on board <br>
-      🛫 Predict the Prices of Flight: Predict the prices of Flght using Regression & Ensemble Algorithms. <br>
-      🛫 Rental Book Recommendation: Recommendation of books based on individual taste using Memory-Based Collaborative Filtering. <br>
-      🛫 Commodity price forecast : Time series analysis in zinc prices.
-      
-- 🥅 New Interests: AI, Open CV, NLP.
-- ⚡ Pre-final year, Information technology student from KIIT 👩‍🎓
+# 👩‍💻 Sancharika Debnath
+### A MACHINE LEARNING ENTHUSIAST!!
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue)](https://sancharika.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sancharika-debnath/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/sancharika/)
+[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:sancharikadebnath@gmail.com)
 
+---
 
-### Connect with me:
+## 🧑‍💻 About Me
 
+Hello! I'm Sancharika Debnath, a passionate Data Scientist with a knack for leveraging emerging technologies to create innovative solutions. My expertise spans data science, machine learning, back-end development, and generative AI, and I'm always eager to explore new challenges and opportunities.
 
+---
 
-[<img align="left" alt="sancharika | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sancharika | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="sancharika | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
+## 💼 Work Experience
+
+### AI ML Engineer | Giggr Technology
+- Developed an agile event system integrating facial recognition, object identification, and GPS with 87.4% accuracy.
+- Collaborated on Neo4j architecture for data mining, using REST API and GCP.
+- Delivered a custom public API for 1.3M+ Indian education institutes via Elasticsearch and web scraping.
+- Designed a Generative AI stack Bot boosting interaction by 90% using Dialogflow, Firebase, OpenAI, and GPT.
+
+### Back-end Developer | Leapon
+- Created a customized back-end and Django REST API for a website with 50+ advisors, focusing on feature optimization using CI/CD tools.
+
+### Data Science Intern | Maersk Global Service Centres
+- Developed an office seat pre-booking web app, boosting booking efficiency by 80%.
+- Enhanced analytical capabilities with clustering models and Gaussian Mixture for cost estimation.
+- Predicted container turn time and forecasted attachment-ratio using FLAML and Azure ML.
+
+### Data Science Winter Intern | HighRadius Corporation
+- Created a regression invoice prediction system with XGBoost, achieving 76.15% accuracy.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Programming Languages**: Python, C++, R, Java, JavaScript
+- **Technical Skills**: NLP, Machine Learning, Deep Learning, Computer Vision, Data Analysis, Generative AI
+- **Libraries**: Pandas, NumPy, SkImage, TensorFlow, PyTorch, scikit-learn, Keras, OpenCV, NLTK, spaCy, Transformers
+- **Tools**: AWS, Azure, GCP, Neo4j, Cassandra, Pinecone, SQL, Tableau
+- **Frameworks**: Keras, TensorFlow, PyTorch, LangChain, Llama, Django, PySpark, GitHub, Databricks, Azure ML
+
+---
 
 ### Languages and Tools:
 
@@ -65,6 +68,49 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+## 📚 Projects
+
+- **[Career Enchanter](https://huggingface.co/spaces/sancharikadebnath/CareerEnchanter)**: Developed a Generative AI data pipeline for job hunting, including resume reviews, personalized recommendations, cover letter generation, and ATS score calculation using BERT Transformer and Large Language Models.
+- **[LLM IPO Analyzer](https://huggingface.co/spaces/sancharikadebnath/LLM-QA-ChatBot)**: Built a Generative AI/ML model for detailed investment statistical analysis in startup IPOs using Llama, HuggingFace, and LangChain.
+- **[Furniture Classification](https://github.com/sancharika/Capstone-Project/)**: Developed a furniture classifier using deep learning models and Transfer Learning, achieving 83.16% accuracy with ResNet-50 on AWS SageMaker.
+
+---
+
+## 📑 Publication
+- **[Hyperspectral Image Compression](https://github.com/sancharika/Hyperspectral-Image-Compression)**: Conducted research on HSI using CNN bottleneck AutoEncoder, achieving 0.998 accuracy, published in IJCISIM.
+
+---
+
+## 🎓 Education
+
+**Kalinga Institute Of Industrial Technology, Bhubaneswar, Orissa, India**  
+Bachelor of Technology, Information Technology  
+CGPA: 8.83  
+(June 2019 - July 2023)
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out to me via [LinkedIn][linkedin], [X][twitter] or [Email][gmail]. You can also explore my projects and contributions on [GitHub][git].
+
+[<img align="left" alt="sancharika | Portfolio" width="22px" src="./favicon.png" />][portfolio]
+[<img align="left" alt="sancharika | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="sancharika | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sancharika | Huggingface" width="22px" src="./hf.svg" />][hf]
+[<img align="left" alt="sancharika | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br />
+
+
+---
+
+Thank you for visiting my profile! Let's build something amazing together. 🚀👩‍🎓
+
+
+
+
+---
+
 ![Sancharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sancharika&show_icons=true&theme=radical)
 
 </details>
@@ -74,11 +120,12 @@ You can click the Preview link to take a look at your changes.
 
 
 [snake]: https://raw.githubusercontent.com/sancharika/sancharika/output/github-contribution-grid-snake.svg
-
-[instagram]: https://www.instagram.com/_sancharika_debnath_/
+[portfolio]:https://sancharika.github.io/
+[hf]: https://huggingface.co/sancharikadebnath
 [gamil]: sancharikadebnath@gmail.com
-[twitter]: https://twitter.com/yoyosanchu
-[linkedin]: https://linkedin.com/in/sancharika-debnath
+[twitter]: https://twitter.com/_Sancharika
+[linkedin]: https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sancharika-debnath
 [js]: https://github.com/sancharika/Hello-World 
 [git]: https://github.com/sancharika
 [ml]: https://github.com/sancharika/ML-Basics
+[gmail]:mailto:sancharikadebnath@gmail.com
